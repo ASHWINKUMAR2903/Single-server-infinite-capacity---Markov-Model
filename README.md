@@ -21,6 +21,23 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![image](https://github.com/ASHWINKUMAR2903/Single-server-infinite-capacity---Markov-Model/assets/119407186/277db700-f44e-471b-9a2f-aadec1c66844)
 ## NAME : ASHWIN KUMAR.A
 ## REG.NO : 212222100006
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Program
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
