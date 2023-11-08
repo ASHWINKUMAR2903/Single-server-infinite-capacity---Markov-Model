@@ -37,6 +37,12 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Program
 ```
